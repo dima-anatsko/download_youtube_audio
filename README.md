@@ -1,11 +1,9 @@
 ## The Simplest Youtube Audio Downloader Bot
-___
 The telegram bot downloads audio from YouTube.
 
 Just send a link to a YouTube video and get audio. That's all! :blush:
 
 ## Deploy
-___
 The telegram bot is written in python and work through webhook.
 
 Just following [this guide](https://habr.com/ru/post/655965/) if you want to deploy to Heroku for free.
